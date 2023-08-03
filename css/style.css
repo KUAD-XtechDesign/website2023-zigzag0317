@@ -203,7 +203,7 @@ body.contents_page {/* classにcontents_pageが指定されているbodyタグ *
   height: 500px;
   color: #fff;
   font-weight: bold;
-  background-image: url(../images/hogehoge.jpeg);/* 背景画像 */
+  background-image: url(../images/943D1C18-6A3F-49FC-83F0-C427E9AFC7E9.jpeg);/* 背景画像 */
   background-size: cover;/* 背景画像のサイズ 要素いっぱいに表示 */
   background-position: center center;/* 背景画像の位置 */
   background-attachment: fixed;/* スクロールしたときの背景画像の位置 固定 */
@@ -313,7 +313,7 @@ reportページ
 
 .report_eye_catch {
   height: 300px;
-  background-image: url(../images/report.jpg);
+  background-image: url(../images/B223BEF3-A640-4CA0-A689-1495DC7D5F0F_1_105_c.jpeg);
   background-size: cover;
   background-position: center center;
   display: flex;
